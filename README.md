@@ -1,7 +1,7 @@
 Smart Image Compressor 智能图片批量压缩工具
 
 [![Python Version](https://img.shields.io/badge/python-3.6%2B-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 一款功能强大的 Python 图片批量压缩工具，智能、高效、易用。
 
